@@ -1,0 +1,6 @@
+C:\workspace\Calculation\Summation\bin\Debug\Sumation.dll
+C:\workspace\Calculation\Summation\bin\Debug\Sumation.pdb
+C:\workspace\Calculation\Summation\obj\Debug\Sumation.dll
+C:\workspace\Calculation\Summation\obj\Debug\Sumation.pdb
+C:\workspace\Calculation\bin\Sumation.dll
+C:\workspace\Calculation\bin\Sumation.pdb
